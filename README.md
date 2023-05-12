@@ -3,11 +3,6 @@
 **`Digital Craftsman (Developer/Student/Tech Enthusiast)`**
 
 I'm an full-stack developer and full-time student building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Blog/Linkedin to more than 1000 individuals.
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 <!-- Social icons section -->
 <p align="center">
